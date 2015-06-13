@@ -1,5 +1,13 @@
 # Projeto Integrador 4
 
+Aplicativo desenvolvido como prototipo para o projeto integrador do quarto bimestre da UNIVESP.
+
+Integrantes do Projeto:
+
+   - Silvana Paiva
+   - Victor Roque
+   - Vinícius Machado
+
 Esse aplicativo tem como objetivo:
 
   - Divulgar ideias sobre reuso da água.
@@ -38,4 +46,4 @@ License
 Others Licenses
 ----------------
 
-Libs license in LICENSES file.
+As licenças das bibliotecas externas usadas estão no arquivo LICENSES.
